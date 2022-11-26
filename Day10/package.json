@@ -1,0 +1,13 @@
+{
+  "name": "day10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reqres.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node reqres.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
